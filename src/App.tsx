@@ -1,6 +1,5 @@
 import { useState, useRef, useEffect } from 'react';
 import './App.css';
-import { FaArrowLeft, FaArrowRight } from 'react-icons/fa';
 import finalImage from '../finalimage.jpg';
 
 const QUESTIONS = [
